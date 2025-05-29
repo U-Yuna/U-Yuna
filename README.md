@@ -17,7 +17,7 @@
 実体験から着想を得てサービスを企画し、主にフロントエンド開発を担当しました。 
 
 #### 🚀 Intelligent Water Rocket Competition 2024（総合優勝）
-東海大学が主催している大会です。（大会のサイト：https://www.u-tokai.ac.jp/news-challenge/1150720/）  
+東海大学が主催している大会です。大会のサイト：https://www.u-tokai.ac.jp/news-challenge/1150720/
 チームのプロジェクトマネージャーとして活動しました。  
 また、ペットボトルロケットの作成から電気系統の設計まで幅広く担当しました。  
 
