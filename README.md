@@ -1,16 +1,26 @@
-## Hi there 👋
+## こんにちは 👋 U-Yuna です！
+青山学院大学理工学部情報テクノロジー学科3年の上村悠菜です。
+大学の授業ではJavaやRubyを用いて、スマホアプリを作成するための勉強をしています。
+研究室ではPythonでRaspberryPiを動かし、温度・湿度のリアルタイムグラフ表示を作成したり、PONGというゲームの実装したりをしました。
+今後はKotlinを使った研究を始める予定です。
+ハッカソンやチーム開発にも積極的に取り組んでいます。
 
-<!--
-**U-Yuna/U-Yuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  主に扱っている技術
+- **プログラミング言語**: C / Python / Java / Ruby  
+- **Web開発（フロントエンド）**: HTML / CSS / JavaScript / Next.js / TypeScript / Tailwind CSS / shadcn/ui
+- **デザイン**: Figma
 
-Here are some ideas to get you started:
+### 🛠 主な制作・活動実績
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Traubling（2025年2月 技育CAMPハッカソンにて努力賞受賞）
+旅行のトラブルを事前に知ることができるサイトです。
+実体験から着想を得てサービスを企画し、主にフロントエンド開発を担当しました。 
+
+#### 🚀 Intelligent Water Rocket Competition 2024（総合優勝）
+東海大学が主催している大会です。（大会のサイト：https://www.u-tokai.ac.jp/news-challenge/1150720/）
+チームのプロジェクトマネージャーとして活動しました。
+また、ペットボトルロケットの作成から電気系統の設計まで幅広く担当しました。
+
+---
+
+ご覧いただきありがとうございます！今後も制作物を更新していく予定です。
