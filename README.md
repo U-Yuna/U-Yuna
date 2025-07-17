@@ -25,7 +25,7 @@
 <tr><td>温湿度リアルタイムグラフ<td>Raspberry Piで温湿度表示<td>Python<td>研究室(個人)
 <tr><td>PONGゲーム<td>ゲーム開発<td>Python<td>研究室(個人)
 <tr><td>Traubling<td>旅行トラブル共有サイト<td>Next.js, PostgreSQL<td>チーム
-<tr><td>Androidアプリケーション<td>発言内容に自信があるかないかを可視化するアプリ<td>Kotlin/Python<td>研究室(個人)
+<tr><td>Androidアプリケーション<td>発言内容に自信があるかないかを可視化するアプリ<td>Kotlin, Python<td>研究室(個人)
 </table>
 
 <h3 align="left">Connect with me:</h3>
