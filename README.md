@@ -1,21 +1,22 @@
-<h1 align="center">こんにちは 👋 U-Yuna です！</h1>
+<h1 align="center">こんにちは 👋 上村悠菜 です！</h1>
 
 - 青山学院大学理工学部情報テクノロジー学科3年
-- 研究やハッカソンでWeb・組込み・アプリ開発を学んでいます
+- 研究やハッカソンでWeb・組込み・アプリ開発に取り組んでいます
+- 現在、機械学習とKotlinを学習中です
 
 <h3 align="left">Career:</h3>
 <table>
 <tr><td><b>StartDate</b><td><b>School/Career</b>
-<tr><td>2023.3<td>実践女子学園高等学校卒業
-<tr><td>2023.4<td>青山学院大学理工学部情報テクノロジー学科入学
-<tr><td>2023.9<td>青山学院大学情報メディアセンター学生スタッフ採用
-<tr><td>2025.4<td>戸辺研究室配属
+<tr><td>2020.3<td>実践女子学園高等学校
+<tr><td>2023.4<td>青山学院大学理工学部情報テクノロジー学科
+<tr><td>2023.9<td>青山学院大学情報メディアセンター学生スタッフ
+<tr><td>2025.4<td>戸辺研究室
 </table>
 
 <h3 align="left">Awards:</h3>
 <table>
 <tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b><td><b>Post</b><td><b>Remarks</b>
-<tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>Blue Mountain<td>PM / 電気系統<td>
+<tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>Blue Mountain<td>PM / ロケット本体作成<td>
 <tr><td>2025.2.24<td>技育CAMPハッカソン<td>努力賞<td>Traubling<td>フロントエンド<td>技育博2025vol.1出品
 </table>
 
