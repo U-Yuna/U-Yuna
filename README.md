@@ -2,7 +2,7 @@
 
 - 青山学院大学理工学部情報テクノロジー学科3年
 - 研究やハッカソンでWeb・組込み・アプリ開発に取り組んでいます
-- 現在、機械学習、Kotlin、Reactを学習中です
+- 現在、機械学習、Kotlin、React、flutterを学習中です
 
 <h3 align="left">Career:</h3>
 <table>
@@ -70,6 +70,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
+
 </p>
 
 ## Metrics
